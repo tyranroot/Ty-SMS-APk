@@ -46,6 +46,8 @@ Now go to your file manager and check the Ty-SMS-Apk file... Then Install the SM
 ```
 ---
 
+##![Alt text](https://github.com/tyranroot/Ty-SMS-APk/blob/main/Pictures/photo_2026-04-24_14-49-18.jpg?raw=true)
+##![Alt text]()
 ## 👨‍💻 Author
 
 * **Name:** Maruf x ZeroTrace 
